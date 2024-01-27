@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bt-container {
+    background-color: #ffffff;
+    background-size: cover;
+    text-align: center;
+}
+
+.imug-1 {
+    width: 80vw;
+}
+
+.imug-2 {
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+}
+
+.ba-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.tech-container {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 20px;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    color: #5752ab;
+    font-size: 22px;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.button {
+    border-color: #d7dfe9;
+}
+
+.button-white {
+    color: #171f46;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border-color: #d7dfe9;
+    font-family: "roboto";
+    width: 126px;
+    height: 38px;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.button-blue {
+    color: #ffffff;
+    background-color: #5752ab;
+    font-family: "roboto";
+    border-radius: 8px;
+    border-width: 0px;
+    width: 126px;
+    height: 38px;
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.news-page-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.news-page-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 25px;
+}
+
+.news-headline {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 15px;
+
+}
+
+.news-headline-discription {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.news-detail {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 15px;
+}
+
+.button {
+    font-family: "Roboto";
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 8px;
+    height: 35px;
+    width: 120px;
+    font-size: 10px;
+}
+
+.background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.content-card {
+    text-align: left;
+    background-color: #f6c56e;
+    color: #323f4b;
+    padding: 25px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bttn {
+    font-family: "Roboto";
+    width: 135px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
